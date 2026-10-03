@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/enterprise.jpg" alt="Aplicativo mobile corporativo" width="100%">
+</p>
+
 # 📱 Enterprise Mobile Application
 
 Aplicação mobile corporativa desenvolvida com **React Native + Expo**, focada em **segurança, usabilidade, escalabilidade e código resiliente**. O projeto segue **boas práticas de mercado** utilizadas em ambientes enterprise.
